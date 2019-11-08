@@ -46,7 +46,7 @@ seaborn==0.9.0
 six==1.12.0
 statsmodels==0.10.0
 traitlets==4.3.2
-urllib3==1.22
+urllib3==1.24.2
 Werkzeug==0.15.4
 wincertstore==0.2
 xgboost==0.82
